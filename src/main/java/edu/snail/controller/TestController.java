@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import edu.snail.model.SysUser;
 import edu.snail.service.TestService;
-
+//Test changes for IDEA.
 @Controller
 @RequestMapping("/test")
 public class TestController {
